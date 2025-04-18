@@ -1,0 +1,19 @@
+# Ignore Python virtual environments
+venv/
+
+# Ignore temporary files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore config/secrets
+config.py
+
+# VSCode settings (optional)
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
